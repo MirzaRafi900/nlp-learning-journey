@@ -1,0 +1,25 @@
+# Sentiment Analysis
+
+This project analyzes text sentiment using NLP.
+
+## Features
+
+✅ Positive Sentiment Detection
+
+✅ Negative Sentiment Detection
+
+✅ Neutral Sentiment Detection
+
+## Technologies
+
+- Python
+- TextBlob
+- NLP
+
+## Example
+
+Input:
+I love this product.
+
+Output:
+Positive Sentiment
