@@ -1,0 +1,18 @@
+# Movie Review Analyzer
+
+A simple NLP application that analyzes movie reviews
+and classifies them as positive, negative or neutral.
+
+## Features
+
+✅ Sentiment Analysis
+
+✅ Review Classification
+
+✅ Sentiment Statistics
+
+## Technologies
+
+- Python
+- TextBlob
+- NLP
